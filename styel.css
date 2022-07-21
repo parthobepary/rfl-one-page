@@ -1,0 +1,30 @@
+.img-width {
+  width: 100px;
+  height: 60px;
+  margin: 0;
+}
+.bg-img {
+  background-color: pink;
+  height: 500px;
+  border-radius: 10px;
+}
+.list-container {
+  list-style: none;
+}
+.white {
+  background-color: whitesmoke;
+  width: 100%;
+  padding: 5px 15px;
+  border-radius: 5px;
+}
+ul {
+  margin: 0px;
+  padding: 0px;
+  border: 0px;
+}
+li {
+  padding-left: 15px;
+}
+.text-color {
+  color: rgb(209, 105, 122);
+}
